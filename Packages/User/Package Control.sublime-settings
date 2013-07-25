@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"FileDiffs",
+		"FileZilla SFTP Import",
+		"Gist",
+		"Git",
+		"Git Config",
+		"Github Tools",
+		"HTML Mustache",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"rsub",
+		"SFTP",
+		"Sublimerge"
+	]
+}
